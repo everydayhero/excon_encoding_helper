@@ -57,7 +57,7 @@ GEM
       ast (~> 2.4.0)
     parslet (1.8.2)
     procto (0.0.3)
-    rake (12.3.2)
+    rake (13.0.1)
     regexp_parser (1.5.1)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
